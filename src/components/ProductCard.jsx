@@ -1,6 +1,6 @@
 import "./ProductCard.css";
 export const ProductCard = ({ props }) => {
-  console.log(props);
+//   console.log(props);
   const {
     product_color,
     product_image,
